@@ -33,3 +33,50 @@ The first chapter introduces the terminology and concepts of reliability, scalab
 
 # Scalability
 
+```
+💡 What is scalability?
+
+It is a term used to describe a system's ability to handle increased load.
+```
+
+```
+❌ X is scalable or Y doesn't scale
+✅ How can we add computational resources to cope with additional load? 
+✅ If at any given point of time, we might have 100,000 requests per minute, what are our options to ensure that
+	 our systems don't crash?
+```
+
+## Describing load
+
+## Describing Performance
+
+## Approaches for Coping with Load
+
+
+
+
+
+# Maintainability
+
+![maintaining code: expectation vs reality](images/ch1/maintainability-overview.png)
+
+![software design principles](images/ch1/software-design-principles.png)
+
+## Operability: Making Life Easy for Operations
+
+![importance of operations](images/ch1/importance-of-operations.png)
+
+- Automating things is important but setting them up is still a manual process and should be done with care
+
+![responsibility of operations](images/ch1/responsibility-of-operations.png)
+
+
+
+## Simplicity: Managing Complexity
+
+![avoiding accidental complexity](images/ch1/accidental-complexity.jpeg)
+
+
+
+## Evolvability: Making Change Easy
+
